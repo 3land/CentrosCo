@@ -7,16 +7,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WcfService3
+namespace WcfService2
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class Usuario
+    public partial class CentrosComerciale
     {
-        public int IdUsuario { get; set; }
-        public string NomUsuario { get; set; }
-        public string PassUsuario { get; set; }
-        public string Correo { get; set; }
+        public int idCentro { get; set; }
+        public string nombreCentro { get; set; }
+        public string direccion { get; set; }
+        public string localidad { get; set; }
+        public Nullable<int> tiendas { get; set; }
+        public string cine { get; set; }
+        public string url { get; set; }
+        public Nullable<double> latitud { get; set; }
+        public Nullable<double> longitud { get; set; }
     }
 }

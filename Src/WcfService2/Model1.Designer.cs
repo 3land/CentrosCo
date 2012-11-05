@@ -1,4 +1,4 @@
-﻿// Default code generation is disabled for model 'c:\users\jorgeeduardo\documents\visual studio 2012\Projects\WcfService3\WcfService3\Model1.edmx'. 
+﻿// Default code generation is disabled for model 'c:\users\natalia\documents\visual studio 2012\Projects\WcfService2\WcfService2\Model1.edmx'. 
 // To enable default code generation, change the value of the 'Code Generation Strategy' designer
 // property to an alternate value. This property is available in the Properties Window when the model is
 // open in the designer.

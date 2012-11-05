@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WcfService3
+namespace WcfService2
 {
     using System;
     using System.Data.Entity;
@@ -25,7 +25,6 @@ namespace WcfService3
             throw new UnintentionalCodeFirstException();
         }
     
-        public DbSet<Mercado> Mercadoes { get; set; }
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<CentrosComerciale> CentrosComerciales { get; set; }
     }
 }
